@@ -11,6 +11,5 @@ int main(int argc, char const *argv[]) {
   refresh();//Refresco pantalla visible con Hola Mundo
   getch();//Espero un caracter
   endwin();//Cierro modo ncurses
-
   return 0;
 }
